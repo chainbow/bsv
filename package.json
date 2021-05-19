@@ -59,6 +59,7 @@
     "webpack": "4.29.3",
     "webpack-cli": "^3.3.12"
   },
+  "types": "./bsv.d.ts",
   "license": "MIT",
   "standard": {
     "globals": [
